@@ -1,0 +1,3 @@
+echo $@
+
+/opt/libreoffice/program/soffice $@
